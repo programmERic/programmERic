@@ -1,16 +1,22 @@
-### Hi there 👋
+## programmer eric => programmERic 😎
 
-<!--
-**programmERic/programmERic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Career Achievements
+- Built POC feature within companies existing patient care app that allowed for remote.
+- Designed new software diagnostic that ran on an engine controller that ensured compliance for updated emission regulations.
+- Lead project for client to build a new web application using Plaid to display financial data.
 
-Here are some ideas to get you started:
+###Things I like
+- Biking. I'm currently at 6 bikes, n+1 though. 🚴
+- Computer Vision. Matplotlib FTW
+- the Outdoors. Neature 🌲
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Skills
+-Python 🐍 (what a great language)
+-Javascript (Angular & React)
+-C# .NET
+-C
+-GoLang (still new to GoLang but excited for opportunities to work with it)
+
+###Education
+MS-CS Georgia Tech
+BS-EE&CS UW-Madison
