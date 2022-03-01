@@ -18,5 +18,5 @@
 - GoLang (still new to GoLang but excited for opportunities to work with it)
 
 ### Education
-# MS-CS Georgia Tech
-# BS-EE&CS UW-Madison
+##### MS-CS Georgia Tech
+##### BS-EE&CS UW-Madison
