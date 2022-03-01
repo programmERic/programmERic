@@ -1,6 +1,6 @@
-## programmer eric => programmERic 😎
+# programmer eric => programmERic 😎
 
-### Career Achievements
+### Things I've done
 - Built POC feature within companies existing patient care app that allowed for remote.
 - Designed new software diagnostic that ran on an engine controller that ensured compliance for updated emission regulations.
 - Lead project for client to build a new web application using Plaid to display financial data.
@@ -10,7 +10,7 @@
 - Photography. I like shooting film with my Pentax K1000. 📷
 - the Outdoors & Sustainability. Neature 🌲
 
-### Skills
+### Skills I have
 - Python 🐍 (what a great language)
 - Javascript (Angular & React)
 - C# .NET
