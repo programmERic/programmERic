@@ -7,8 +7,8 @@
 
 ### Things I like
 - Biking. I'm currently at 6 bikes, n+1 though. 🚴
-- Computer Vision. Matplotlib FTW
-- the Outdoors. Neature 🌲
+- Photography. I like shooting film with my Pentax K1000. 📷
+- the Outdoors & Sustainability. Neature 🌲
 
 ### Skills
 - Python 🐍 (what a great language)
